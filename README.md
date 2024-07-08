@@ -159,3 +159,7 @@ heart.classList.toggle('heart-clicked');
 </body>
 </html>
 ```
+### OUTPUT:
+![Screenshot 2024-07-08 205802](https://github.com/SyedJaveed786/CSS-ADV-PROJECT/assets/106874713/f7a05308-6672-4a04-8edf-4d5888b86a4e)
+
+
